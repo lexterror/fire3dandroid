@@ -1,0 +1,17 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+width: 200px;
+height: 200px;
+left:0;
+right:0;
+top: 0;
+bottom: 0;
+position: fixed;
+margin:auto;
+vertical-align: middle;
+zoom: 1000%;
+overflow:hidden;
+}
