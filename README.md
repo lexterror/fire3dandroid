@@ -1,4 +1,4 @@
-# fire3dandroid
+# Fire 3D Live Wallpaper for Android
 A Fire 3D Live Wallpaper for Android (Not a Video)
 
 
